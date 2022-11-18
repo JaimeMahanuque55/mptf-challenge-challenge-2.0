@@ -1,3 +1,7 @@
+Jaime Mahanuque link for the site: https://jaimemahanuque55.github.io/mptf-challenge-challenge-2.0/
+
+
+
 # Jordan Shoes
 
 ## 🚀 Technologies
@@ -26,4 +30,5 @@ You can acess it by clicking [here](https://jeffermarcelino.github.io/codelandia
 
 <br>
 
-Made by ♥ :wave: [Jeffer Marcelino!](https://github.com/JefferMarcelino/)
+Made by ♥ :wave: [Jeffer Marcelino!](https://github.com/JefferMarcelino/);
+
